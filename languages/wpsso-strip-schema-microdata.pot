@@ -1,0 +1,113 @@
+# Copyright (C) 2017 WPSSO Strip Schema Microdata
+# This file is distributed under the same license as the WPSSO Strip Schema Microdata package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSSO Strip Schema Microdata 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpsso-strip-"
+"schema-microdata\n"
+"POT-Creation-Date: 2017-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/config-gettext-extract.php:3
+msgctxt "lib file description"
+msgid "Strip Microdata"
+msgstr ""
+
+#: lib/config-gettext-extract.php:4
+msgctxt "plugin description"
+msgid ""
+"WPSSO extension to remove outdated / incomplete Schema Microdata, leaving "
+"the Google recommended Schema JSON-LD markup untouched."
+msgstr ""
+
+#: lib/filters.php:225
+msgid ""
+"Remove known duplicate / conflicting meta tags from the webpage %1$s section."
+msgstr ""
+
+#: lib/filters.php:232
+msgid ""
+"Remove <code>application/ld+json</code> scripts from the webpage %1$s "
+"section."
+msgstr ""
+
+#: lib/filters.php:239
+msgid ""
+"Remove Schema HTML attributes (itemscope, itemtype, itemprop, etc.) from the "
+"webpage %1$s section."
+msgstr ""
+
+#: lib/submenu/ssm-general.php:31
+msgctxt "metabox title"
+msgid "Strip Schema Microdata"
+msgstr ""
+
+#: lib/submenu/ssm-general.php:38
+msgctxt "metabox tab"
+msgid "Body Section"
+msgstr ""
+
+#: lib/submenu/ssm-general.php:39
+msgctxt "metabox tab"
+msgid "Head Section"
+msgstr ""
+
+#: lib/submenu/ssm-general.php:55
+msgctxt "option label"
+msgid "Duplicate HTML Meta Tags"
+msgstr ""
+
+#: lib/submenu/ssm-general.php:59
+msgctxt "option label"
+msgid "Application/LD+JSON Scripts"
+msgstr ""
+
+#: lib/submenu/ssm-general.php:63
+msgctxt "option label"
+msgid "Schema HTML Attributes"
+msgstr ""
+
+#: wpsso-strip-schema-microdata.php:78
+msgid ""
+"%1$s is an extension for the %2$s plugin &mdash; please install and activate "
+"the %3$s plugin before activating %4$s."
+msgstr ""
+
+#: wpsso-strip-schema-microdata.php:80
+msgid ""
+"The %1$s extension requires the %2$s plugin &mdash; please install and "
+"activate the %3$s plugin."
+msgstr ""
+
+#: wpsso-strip-schema-microdata.php:157
+msgid ""
+"The %1$s extension v%2$s requires %3$s v%4$s or newer (v%5$s currently "
+"installed)."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPSSO Strip Schema Microdata"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpsso.com/extend/plugins/wpsso-strip-schema-microdata/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WPSSO extension to remove outdated / incomplete Schema Microdata, leaving "
+"the Google recommended Schema JSON-LD markup untouched."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "JS Morisset"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://surniaulula.com/"
+msgstr ""
